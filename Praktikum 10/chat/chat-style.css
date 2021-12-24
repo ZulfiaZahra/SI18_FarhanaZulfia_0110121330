@@ -1,0 +1,20 @@
+html, body {
+    height: 95%;
+}
+body{
+    border: 1px black solid;
+}
+#body-chat{
+    height: 95%;
+}
+#chat{
+    width: 95%;
+}
+#button-chat{
+    bottom: 0;
+}
+.input-chat{
+    background-color: darkgrey;
+    bottom: 0;
+    margin-top: 0.7em;
+}
